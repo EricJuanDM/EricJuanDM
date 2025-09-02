@@ -25,7 +25,7 @@ Fora da tecnologia, sou dançarino de Hip Hop em um grupo de competição. A dan
 **Análise de Dados e Outras Ferramentas:**
 <div style="display: inline_block"><br>
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="PowerBI" height="30" width="40" src="[https://cdn.simpleicons.org/powerbi/F2C811](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png)">
+  <img align="center" alt="PowerBI" height="30" width="40" src="https://cdn.simpleicons.org/powerbi/F2C811](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png)">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
