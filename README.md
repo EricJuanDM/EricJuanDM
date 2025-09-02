@@ -10,6 +10,11 @@
 [cite_start]Minhas experiências anteriores em posições administrativas e de atendimento ao cliente me deram uma base sólida em **comunicação, organização e resolução de problemas**[cite: 23, 27]. [cite_start]Sou uma pessoa proativa e colaborativa[cite: 31, 32], sempre em busca de novos desafios e aprendizados.
 
 Fora da tecnologia, sou dançarino de Hip Hop em um grupo de competição. A dança me ensinou sobre **disciplina, criatividade sob pressão e a importância da sincronia para alcançar objetivos em equipe** — valores que aplico em todas as áreas da minha vida.
+<div align="center">
+  <a href="https://github.com/EricJuanDM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricJuanDM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJuanDM&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## 🚀 Habilidades & Ferramentas
 
